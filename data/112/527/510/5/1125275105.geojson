@@ -560,7 +560,7 @@
         102191581,
         85633269,
         85685759,
-        102073615
+        101753031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -582,7 +582,7 @@
     "wof:id":1125275105,
     "wof:lastmodified":1566598025,
     "wof:name":"Vilnius",
-    "wof:parent_id":102073615,
+    "wof:parent_id":101753031,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],

@@ -47,7 +47,7 @@
         102191581,
         85633269,
         85685759,
-        102073615
+        101753031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +69,7 @@
     "wof:id":1125305243,
     "wof:lastmodified":1566598029,
     "wof:name":"Mickunu Seniunija",
-    "wof:parent_id":102073615,
+    "wof:parent_id":101753031,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],

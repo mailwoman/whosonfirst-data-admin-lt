@@ -74,7 +74,7 @@
         102191581,
         85633269,
         85685759,
-        102073615
+        101753031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,7 +95,7 @@
     "wof:id":1326563543,
     "wof:lastmodified":1566596567,
     "wof:name":"Aukstieji Paneriai",
-    "wof:parent_id":102073615,
+    "wof:parent_id":101753031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],
