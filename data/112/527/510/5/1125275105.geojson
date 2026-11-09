@@ -574,8 +574,8 @@
         {
             "continent_id":102191581,
             "country_id":85633269,
-            "county_id":102073615,
             "localadmin_id":1125275105,
+            "locality_id":101753031,
             "region_id":85685759
         }
     ],
